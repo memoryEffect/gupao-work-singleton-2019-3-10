@@ -1,4 +1,3 @@
-# gupao-work-singleton-2019-3-10
 
 单例模式总结
 
