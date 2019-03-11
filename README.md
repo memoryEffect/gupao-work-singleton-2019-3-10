@@ -24,7 +24,7 @@
 内部类单例
 
 优点：及避免了饿汉式的内存浪费，也兼顾synchonized锁的性能问题
-
+![aa](https://github.com/memoryEffect/gupao-work-singleton-2019-3-10/blob/master/src/innerClass%E6%97%B6%E5%BA%8F%E5%9B%BE.png)
 枚举类单例
 静态代码块中直接给Instasce赋值，是典型的饿汉式单例。
 
